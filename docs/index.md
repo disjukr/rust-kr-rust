@@ -11,6 +11,7 @@
 / [XChat Azure, 맥](http://itunes.apple.com/app/id447521961)
 / [XChat, 리눅스](http://xchat.org/download/))를 설치하고
 [irc://irc.ozinger.org/#rust](irc://irc.ozinger.org/#rust)로 접속하셔도 좋습니다.
+[랑데브](http://log.langdev.org/rust)(회원가입 필요)에서 채널 로그를 확인하실 수도 있습니다.
 찾아오신 것을 환영합니다!
 
 -   [설치하기](/pages/install)
